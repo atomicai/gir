@@ -4,6 +4,7 @@
 
 - [Information Retreval](#information-retreval)
 - [Installation](#installation)
+- [Searching](#searching)
 - [Clustering](#clustering)
 - [Papers](#papers)
 
@@ -16,11 +17,14 @@
 # Installation
     TODO
 
+# Searching
+    TODO
+
 # Clustering
     TODO
 
 # Papers
 
-| Paper                                    | Description                                                                                                  |                                   Github(Notebook) |
-| :--------------------------------------- | :----------------------------------------------------------------------------------------------------------- | -------------------------------------------------: |
-| [DPR▶️](https://arxiv.org/abs/2004.04906) | Semantic search using two separate encoders for each source of information. SOTA in 2021. Easy to implement. | [source▶️](https://github.com/facebookresearch/DPR) |
+| Paper                                   | Description                                                                                                  |                                  Github(Notebook) |
+| :-------------------------------------- | :----------------------------------------------------------------------------------------------------------- | ------------------------------------------------: |
+| [DPR](https://arxiv.org/abs/2004.04906) | Semantic search using two separate encoders for each source of information. SOTA in 2021. Easy to implement. | [github](https://github.com/facebookresearch/DPR) |
